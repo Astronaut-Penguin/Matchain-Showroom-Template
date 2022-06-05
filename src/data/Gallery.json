@@ -1,0 +1,41 @@
+{ 
+    "dataGallery":
+    [
+        {
+            "title":"NFT 1",
+            "artist": "Astronaut & Penguin",
+            "description": "Parte de la primera coleccion de NFT para la coleccion de Matchain en la red de TON",
+            "image":"./assets/Gallery/1.jpg"
+        },
+        {
+            "title":"NFT 2",
+            "artist": "Astronaut & Penguin",
+            "description": "Parte de la primera coleccion de NFT para la coleccion de Matchain en la red de TON",
+            "image":"./assets/Gallery/2.jpg"
+        },
+        {
+            "title":"NFT 3",
+            "artist": "Astronaut & Penguin",
+            "description": "Parte de la primera coleccion de NFT para la coleccion de Matchain en la red de TON",
+            "image":"./assets/Gallery/3.jpg"
+        },
+        {
+            "title":"NFT 4",
+            "artist": "Astronaut & Penguin",
+            "description": "Parte de la primera coleccion de NFT para la coleccion de Matchain en la red de TON",
+            "image":"./assets/Gallery/4.jpg"
+        },
+        {
+            "title":"NFT 5",
+            "artist": "Astronaut & Penguin",
+            "description": "Parte de la primera coleccion de NFT para la coleccion de Matchain en la red de TON",
+            "image":"./assets/Gallery/5.jpg"
+        },
+        {
+            "title":"NFT 6",
+            "artist": "Astronaut & Penguin",
+            "description": "Parte de la primera coleccion de NFT para la coleccion de Matchain en la red de TON",
+            "image":"./assets/Gallery/6.jpg"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{ 
+    "data":
+    [
+        {
+            "name":"Proyecto del Lunes",
+            "description": "Descripicon del proyecto del Lunes",
+            "image": "./assets/Imagenes/ImagenLunes.jpg"
+        },
+        {
+            "name":"Proyecto del Martes",
+            "description": "Descripicon del proyecto del Lunes",
+            "image": "./assets/Imagenes/ImagenMartes.jpg"},
+        {
+            "name":"Proyecto del Miercoles",
+            "description": "Descripicon del proyecto del Lunes",
+            "image": "./assets/Imagenes/ImagenMiercoles.jpg"},
+        {
+            "name":"Proyecto del Jueves",
+            "description": "Descripicon del proyecto del Lunes",
+            "image": "./assets/Imagenes/ImagenJueves.jpg"
+        },
+        {
+            "name":"Proyecto del Viernes",
+            "description": "Descripicon del proyecto del Lunes",
+            "image": "./assets/Imagenes/ImagenViernes.jpg"
+        },
+        {
+            "name":"Proyecto del Sabado",
+            "description": "Descripicon del proyecto del Lunes",
+            "image": "./assets/Imagenes/ImagenSabado.jpg"
+        },
+        {
+            "name":"Proyecto del Domingo",
+            "description": "Descripicon del proyecto del Lunes",
+            "image": "./assets/Imagenes/ImagenDomingo.jpg"
+        }
+    ]
+}

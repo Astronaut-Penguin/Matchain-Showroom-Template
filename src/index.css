@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #27343C;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.ContenedorGeneral {
+  display: none;
+}
+
+.VistaMobile {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  background-color: blue;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+@media only screen and (min-width: 900px) {
+  .ContenedorGeneral {
+    display: inline-block;
+  }
+
+  .VistaMobile {
+    display: none;
+
+  }
+}

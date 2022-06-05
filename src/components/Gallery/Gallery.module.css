@@ -1,0 +1,11 @@
+.Gallery {
+    width: 100%;
+}
+
+.PreviewCards {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+}

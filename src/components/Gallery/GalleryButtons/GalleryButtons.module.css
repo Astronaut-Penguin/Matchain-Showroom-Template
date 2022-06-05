@@ -1,0 +1,102 @@
+.ButtonGenre{
+    display: flex;
+    direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+
+/*Button1*/
+
+
+.ButtonOne{
+
+        width: 200px;
+        height: 120px;
+        margin-left: 25px;
+        margin-right: 25px;
+        font-size: 1.875em;
+        background-color: #27343C;
+        color: #00E1FF;
+        border-color: #00E1FF;;
+        transform: scale(1.0);
+        transition: transform 0.3s ease-in;
+}
+
+.ButtonOne:hover{
+    background: url(../../Imagenes/Gif1.gif);
+    background-size: 200px 120px;
+    background-position: center;
+}
+
+/*Button1*/
+
+
+.ButtonSecond{
+
+    width: 200px;
+    height: 120px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 1.875em;
+    background-color: #27343C;
+    color: #00E1FF;
+    border-color: #00E1FF;;
+    transform: scale(1.0);
+    transition: transform 0.3s ease-in;
+}
+
+.ButtonSecond:hover{
+background: url(../../Imagenes/Gif2.gif);
+background-size: 200px 120px;
+background-position: center;
+}
+
+/*Button1*/
+
+
+.ButtonThird{
+
+    width: 200px;
+    height: 120px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 1.875em;
+    background-color: #27343C;
+    color: #00E1FF;
+    border-color: #00E1FF;;
+    transform: scale(1.0);
+    transition: transform 0.3s ease-in;
+}
+
+.ButtonThird:hover{
+background: url(../../Imagenes/Gif3.gif);
+background-size: 200px 120px;
+background-position: center;
+}
+
+/*Button1*/
+
+
+.ButtonFour{
+
+    width: 200px;
+    height: 120px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 1.875em;
+    background-color: #27343C;
+    color: #00E1FF;
+    border-color: #00E1FF;;
+    transform: scale(1.0);
+    transition: transform 0.3s ease-in;
+}
+
+.ButtonFour:hover{
+background: url(../../Imagenes/Gif4.gif);
+background-size: 200px 120px;
+background-position: center;
+}

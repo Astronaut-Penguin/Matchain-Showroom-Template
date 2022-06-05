@@ -1,0 +1,61 @@
+/*Card1*/
+
+.ContainerImage{
+    display: flex;
+    width: 300px;
+    height: 220px;
+    margin: 20px;
+}
+
+.overlay {
+    display: block;
+    overflow: hidden;
+    padding-left: 8px;
+    width: 100px;
+    height: 0px;
+    transition: 1.5s ease;
+  }
+
+.text1{
+    display: flex;
+    width: 284px;
+    margin-top: 5px;
+    margin-left: 0px;
+    line-height: 25px;
+    font-size: 1.5em; 
+    color: #00E1FF;;
+}
+
+.text2{
+    display: flex;
+    margin-top: 5px;
+    width: 150px;
+    height: 30px;
+    font-size: 1em;  
+    color: #00E1FF;;
+}
+
+.line1{
+    display: flex;
+    width: 100px;
+    height: 0,5px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-color: #00E1FF;;
+}
+
+.text3{
+    display: flex;
+    font-size: 0.75em;
+    margin-top: 13px;
+    width: 150px;
+    height: 30px;
+    color: #00E1FF;;
+}
+
+.ContainerImage:hover .overlay {
+    background:#27343C;
+    height: 100%;
+    width: 150%;
+  } 
+

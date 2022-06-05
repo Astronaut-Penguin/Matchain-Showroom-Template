@@ -1,0 +1,236 @@
+.Botones{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+     
+    width: 100%;
+    height: 50px;
+}
+
+.BotonLunes{
+    width: 150px;
+    font-size: 1.2em;
+    background: none;
+    border: none;
+    color: white;
+}
+
+
+/* .BotonLunes:after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    background-color: red;
+    width: 0;
+    left: 50%; 
+     bottom: 100%;
+     -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%); 
+    transform: translateX(-50%);
+    -webkit-transition: 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+    transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55)  all ;
+  } */
+  
+  .BotonLunes:hover {
+    color: #00E1FF;
+  }
+  
+  /* .BotonLunes:hover:after {
+      width: 65px;
+  } */
+
+
+.BotonMartes{
+    width: 150px;
+    font-size: 1.2em;
+    background: none;
+    border: none;
+    color: white;
+}
+
+/* .BotonMartes:after {
+    content: "";
+    /* position: absolute; */
+   /* height: 2px;
+    background-color: black;
+    width: 0;
+    left: 50%;
+    bottom: 0;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%); 
+    transform: translateX(-50%);
+    -webkit-transition: 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+    transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55)  all ;
+  } */
+  
+  .BotonMartes:hover {
+      color: #00E1FF;
+
+  }
+  
+  /* .BotonMartes:hover:after {
+      width: 65px;
+  } */
+
+
+.BotonMiercoles{
+    width: 150px;
+    font-size:  1.2em;
+    background: none;
+    border: none;
+    color: white;
+}
+
+/* .BotonMiercoles:after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    background-color: black;
+    width: 0;
+    left: 50%;
+    bottom: 0;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%); 
+    transform: translateX(-50%);
+    -webkit-transition: 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+    transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55)  all ;
+  } */
+  
+  .BotonMiercoles:hover {
+      color: #00E1FF;
+
+  }
+  
+  /* .BotonMiercoles:hover:after {
+      width: 65px;
+  } */
+  
+ 
+.BotonJueves{
+    width: 150px;
+    font-size:  1.2em;
+    background: none;
+    border: none;
+    color: white;
+}
+
+/* .BotonJueves:after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    background-color: black;
+    width: 0;
+    left: 50%;
+    bottom: 0;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%); 
+    transform: translateX(-50%);
+    -webkit-transition: 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+    transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55)  all ;
+  } */
+  
+  .BotonJueves:hover {
+      color: #00E1FF;
+
+  }
+  
+  /* .BotonJueves:hover:after {
+      width: 65px;
+  } */
+
+.BotonViernes{
+    width: 150px;
+    font-size:  1.2em;
+    background: none;
+    border: none;
+    color: white;
+}
+
+/* .BotonViernes:after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    background-color: black;
+    width: 0;
+    left: 50%;
+    bottom: 0;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%); 
+    transform: translateX(-50%);
+    -webkit-transition: 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+    transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55)  all ;
+  } */
+  
+  .BotonViernes:hover {
+      color: #00E1FF;
+
+  }
+  
+  /* .BotonViernes:hover:after {
+      width: 65px;
+  } */
+
+.BotonSabado{
+    width: 150px;
+    font-size:  1.2em;
+    background: none;
+    border: none;
+    color: white;
+}
+
+/* .BotonSabado:after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    background-color: black;
+    width: 0;
+    left: 50%;
+    bottom: 0;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%); 
+    transform: translateX(-50%);
+    -webkit-transition: 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+    transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55)  all ;
+  } */
+  
+  .BotonSabado:hover {
+      color: #00E1FF;
+
+  }
+  
+  /* .BotonSabado:hover:after {
+      width: 65px;
+  } */
+
+.BotonDomingo{
+    width: 150px;
+    font-size:  1.2em;
+    background: none;
+    border: none;
+    color: white;
+}
+
+/* .BotonDomingo:after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    background-color: black;
+    width: 0;
+    left: 50%;
+    bottom: 0;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%); 
+    transform: translateX(-50%);
+    -webkit-transition: 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+    transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55)  all ;
+  } */
+  
+  .BotonDomingo:hover {
+      color: #00E1FF;
+
+  }
+  
+  /* .BotonDomingo:hover:after {
+      width: 65px;
+  } */

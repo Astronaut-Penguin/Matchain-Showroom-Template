@@ -1,0 +1,27 @@
+
+.BannerYCalendar{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.ContainerBanner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     width: 100%;
+    height: 650px; 
+    backdrop-filter: blur(10px);
+}
+
+.FondoBanner{
+    width: 100%;
+    height: auto;
+    filter: blur(5px);
+}
+
+.Poster {
+    width: 900px;
+    height: 540px;
+}
