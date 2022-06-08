@@ -13,7 +13,7 @@ The website its simple:
 This repo is the result of multiple contributors fans of GNU software, fervient defenders of the free software and open source projects, feel free to use it in any way.
 
 
-Come to our website to
+# Come to our website to
 - Learn any aspect of how to build games for free using free software and connecting them to the TON blockchain.
 - Be able to play games from telegram buying them with TON or playing for free.
 - Enjoy of the TON community, and discover new projects!
