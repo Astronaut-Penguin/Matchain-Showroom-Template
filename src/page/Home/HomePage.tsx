@@ -18,22 +18,6 @@ const HomePage: React.FunctionComponent<{  }> = ({  }) => {
       return(
         <>
         <div className={styles.Main}>
-
-              <nav className={styles.Nav}>
-                <ul className={styles.Ul}>
-
-                  <li className={styles.Li}> <a> Calendario </a> </li>
-                  <li className={styles.Li}> <a> Banner </a> </li>
-                  <li className={styles.Li}> <a> Galeria </a> </li>
-
-                  <div className={`${styles.Nav} ${styles.Info}`}>
-                  <li className={`${styles.Li} ${styles.Singin}`}> <a> Nosotros </a> </li>
-                  <li className={`${styles.Li} ${styles.Singin}`}> <a> Iniciar Sesion </a> </li>
-                  </div>
-                  
-                </ul>
-              </nav>
-           
         <div className={styles.Content}>
           <Calendar />
           <Gallery/>
