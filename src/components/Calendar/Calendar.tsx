@@ -37,33 +37,33 @@ const Calendar: React.FunctionComponent<{ /* TITLE: STRING, CHILDREN: REACTNODE 
       <div className={styles.Botones}>
 
         <button onClick={() => { const current: dayData = { name: Datos.data[0].name, description: Datos.data[0].description, imagen: Datos.data[0].image }; setDay(current) }} className={styles.BotonLunes}>
-          Lunes
+          Noticia 1
         </button>
 
         <button onClick={() => { const current: dayData = { name: Datos.data[1].name, description: Datos.data[1].description, imagen: Datos.data[1].image }; setDay(current) }} className={styles.BotonMartes} >
-          <p className="hola">
-          Martes
-          </p>
+
+          Noticia 2
+
         </button>
 
         <button onClick={() => { const current: dayData = { name: Datos.data[2].name, description: Datos.data[2].description, imagen: Datos.data[2].image }; setDay(current) }} className={styles.BotonMiercoles} >
-          Miércoles
+        Noticia 3
         </button>
 
         <button onClick={() => { const current: dayData = { name: Datos.data[3].name, description: Datos.data[3].description, imagen: Datos.data[3].image }; setDay(current) }} className={styles.BotonJueves} >
-          Jueves
+        Noticia 4
         </button>
 
         <button onClick={() => { const current: dayData = { name: Datos.data[4].name, description: Datos.data[4].description, imagen: Datos.data[4].image }; setDay(current) }} className={styles.BotonViernes} >
-          Viernes
+        Noticia 5
         </button>
 
         <button onClick={() => { const current: dayData = { name: Datos.data[5].name, description: Datos.data[5].description, imagen: Datos.data[5].image }; setDay(current) }} className={styles.BotonSabado} >
-          Sábado
+        Noticia 6
         </button>
 
         <button onClick={() => { const current: dayData = { name: Datos.data[6].name, description: Datos.data[6].description, imagen: Datos.data[6].image }; setDay(current) }} className={styles.BotonDomingo} >
-          Domingo
+        Noticia 7
         </button>
       </div>
       <Banner currentImage = { currentImage }/>

@@ -12,7 +12,7 @@ const Buttons: React.FunctionComponent<{ /* TITLE: STRING, CHILDREN: REACTNODE *
          <div className={styles.ButtonGenre}> 
             
             <button className={styles.ButtonOne}>
-                Custom
+                Our web
             </button>
 
             <button className={styles.ButtonSecond}>
@@ -24,7 +24,7 @@ const Buttons: React.FunctionComponent<{ /* TITLE: STRING, CHILDREN: REACTNODE *
             </button>
 
             <button className={styles.ButtonFour}>
-                Fight
+                Play
             </button>
 
          </div>
