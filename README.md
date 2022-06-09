@@ -27,4 +27,4 @@ Feel free to contact us for anything through our website.
 Well, that is temporary, since our main webapp platform its in development we redirect you here from the Learn button, you can take a look here while!
 
 #Link to example build
-https://opensource-news-and-media-showroom.netlify.app/#/
+https://mit-showroom-matchain.netlify.app/#/
